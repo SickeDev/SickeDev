@@ -45,7 +45,7 @@ Sou **Auxiliar de Tecnologia da Informação**, formado como **Técnico em Infor
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,firebase,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
@@ -55,11 +55,9 @@ Sou **Auxiliar de Tecnologia da Informação**, formado como **Técnico em Infor
 |:--|:--|
 | 🐍 Python | 📚 Em aprendizado |
 | ☕ Java | 📚 Em aprendizado |
-| 🔥 Firebase | 📚 Em aprendizado |
 | 🌐 HTML5 | 📚 Em aprendizado |
 | 🎨 CSS3 | 📚 Em aprendizado |
-| 🤖 OpenCode | 🔍 Explorando |
-| 🇺🇸 Inglês básico | 📈 Em evolução |
+| 🇺🇸 Inglês | 📈 Em evolução |
 
 ---
 
@@ -116,7 +114,6 @@ Sou **Auxiliar de Tecnologia da Informação**, formado como **Técnico em Infor
 
   ### ⚔️「 Meu grimório está apenas começando... 」
 
-  *"Eu nunca vou desistir. Esse é o meu jeito ninja!"* 
 
   🖤 **Never Give Up. Keep Coding. Keep Evolving.** 💚
 
