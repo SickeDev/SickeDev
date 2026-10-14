@@ -117,6 +117,4 @@ Sou **Auxiliar de Tecnologia da Informação**, formado como **Técnico em Infor
 
   🖤 **Never Give Up. Keep Coding. Keep Evolving.** 💚
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=SickeDev&color=32CD32&style=flat-square&label=Visualizações+do+perfil)
-
 </div>
