@@ -45,7 +45,7 @@ Sou **Auxiliar de Tecnologia da Informação**, formado como **Técnico em Infor
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,eclipse&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
